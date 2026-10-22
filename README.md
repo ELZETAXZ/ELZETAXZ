@@ -1,3 +1,4 @@
+[Versión estática](banner.svg)
 
 ## `$ whoami`
 
