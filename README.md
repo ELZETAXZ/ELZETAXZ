@@ -1,4 +1,5 @@
-[Versión estática](banner.svg)
+$ ls projects/
+<div align="center"> <!-- Opcional: estadísticas de GitHub en tema oscuro --> <!-- Reemplaza TU_USUARIO --> <img height="150" src="https://github-readme-stats.vercel.app/api?username=ELZETAXZ&show_icons=true&hide_border=true&bg_color=05070d&title_color=4da3ff&icon_color=1e5bff&text_color=9db7ee" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELZETAXZ&layout=compact&hide_border=true&bg_color=05070d&title_color=4da3ff&text_color=9db7ee" /> </div>
 
 ## `$ whoami`
 
